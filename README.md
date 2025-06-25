@@ -23,3 +23,6 @@ Provide a dashboard that can answer the following:
 - The Golden Years Security has impressions on the lower end and very low CTR while having the highest CPC. It also carries the lowest claim amount and highest cost per sign up. This campaign should be evaluated for delivery issues as well as copy and offer efficacy, potentially even sunsetting if there are no technical issues to be found. 
 - Campaign with the best overall signup rate is Health For All campaign at 8.16%. Health For All is not so closely, following by Coverage Matters at 4.76%. Dow should seek to replicate the applicable campaign tactics across other campaigns.
 - Most campaigns saw a spike in signup activity in April 2020 due to pandemic-related influx. These influxed represented apex performance for all but two campaigns which both saw their apex performance later in 2021. The campaigns are Compare Health Coverage in 2021 and Tailored Health Plans in September 2021, the latter is likely due to the proximity to open enrollment while the former is due to bigger investment into the Compare Health Coverage campaigns as claim amounts for this campaign also ballooned between December 2020 and February 2023.
+
+## Resources
+Dashboard: [Here](https://public.tableau.com/views/DowHealthQBR/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
