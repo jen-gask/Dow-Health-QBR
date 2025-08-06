@@ -35,4 +35,3 @@ Golden Years Underperformance
 
 ## Resources
 Dashboard: [Here](https://public.tableau.com/views/DowHealthQBR/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<div class='tableauPlaceholder' id='viz1750810839756' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Do&#47;DowHealthQBR&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a>
