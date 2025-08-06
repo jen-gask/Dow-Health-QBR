@@ -20,16 +20,16 @@ Provide a dashboard that can answer the following:
 While several campaigns demonstrate strong click-through rates (CTR), not all are converting efficiently, and others show signs of declining effectiveness or inefficiency. Strategic next steps include scaling high performers, revisiting underperformers for copy and offer revisions, and leveraging lessons from the top-converting campaigns across the portfolio.
 
 ## Insights
-Overall
+#### Overall
 - Most campaigns peaked in April 2020 due to pandemic-related demand, which drove a spike in signups. But two campaigns, *Compare Health Coverage* and *Tailored Health Plans*, hit their highest performance later in 2021. The former coincided with increased investment, and the latter aligned with open enrollment. The performance of these campaigns and highlights the importance of timing and budget alignment.
-Strong Conversions
+#### Strong Conversions
 - *Health For All* leads with an 8.16% signup rate and one of the highest CTRs despite low impressions. It should be prioritized for additional resources and potentially serve as a model for other campaigns.
 - With a 4.76% signup rate, *Coverage Matters* shows strong performance. Elements from both this and *Health For All* should be analyzed and replicated where applicable.
-Scaling CTR
+#### Scaling CTR
 - Both *Health For All* and *Benefit Updates* combine high CTR with low impressions. These campaigns are opportunities for better utilization and should be scaled after confirming there are no delivery issues.
-Summer CTR-Signup Disconnect
+#### Summer CTR-Signup Disconnect
 - *Summer Wellness Tips* used to drive strong seasonal signups, but that’s slowed down in recent years. CTR is still high, so interest is there, but fewer people are converting. It’s worth digging into why that might be: messaging misalignment, timing, and targeting could all be factors.
-Golden Years Underperformance
+#### Golden Years Underperformance
 - *Golden Years Security* features the lowest CTR, the highest CPC, and the lowest claim amount. With low impressions and no clear external reason for underdelivery, a full review of its delivery, copy, and offer is recommended. If no improvement potential is found, consider sunsetting.
 
 
